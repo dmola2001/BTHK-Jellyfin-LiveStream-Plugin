@@ -1,0 +1,12 @@
+{
+    "category": "livetv",
+    "description": "إضافة متقدمة للبث المباشر مع دعم أجهزة USB للصوت والصورة",
+    "guid": "bthk-live-stream-1234-5678-9012",
+    "name": "BTHK Live Stream Manager",
+    "overview": "إدارة متكاملة للبث المباشر باستخدام تقنية FFmpeg وDShow",
+    "owner": "bthk",
+    "version": "1.0.0",
+    "status": "active",
+    "canUninstall": true,
+    "hasImage": true
+}
